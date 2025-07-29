@@ -1,6 +1,0 @@
-*.pkl
-*.csv
-__pycache__/
-venv/
-*.ipynb
-*.log
